@@ -1,2 +1,5 @@
-# hanta-linkedin-plugin-privacy
-Privacy policy for the Hanta LinkedIn Plugin Chrome extension
+# Hanta LinkedIn Plugin Privacy Policy
+
+This repository hosts the public privacy policy for the Hanta LinkedIn Plugin Chrome extension.
+
+- [Privacy Policy](PRIVACY.md)

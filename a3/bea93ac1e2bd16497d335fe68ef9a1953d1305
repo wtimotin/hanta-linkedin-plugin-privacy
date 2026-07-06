@@ -1,0 +1,21 @@
+PRIVACY.md
+  s_ed02091397ad7c::t_b55538dcdf5b85 1-121
+README.md
+  s_ed02091397ad7c::t_b55538dcdf5b85 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a3bea93ac1e2bd16497d335fe68ef9a1953d1305",
+  "prompts": {},
+  "sessions": {
+    "s_ed02091397ad7c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e91d8-b70e-71d1-b237-bfec215cbc60",
+        "model": "gpt-5.5"
+      },
+      "human_author": "Wlad Timotin <wlad.timotin@t-next.de>"
+    }
+  }
+}
